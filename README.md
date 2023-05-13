@@ -25,4 +25,4 @@ Please follow the project's code of conduct and coding guidelines when contribut
 
 ## 📄 License
 
-This project is licensed under the MIT License. You can view the full license text in the LICENSE file.
+This project is licensed under the [MIT License](https://github.com/HimeshKohad/Discord-Clone/blob/main/LICENSE). You can view the full license text in the LICENSE file.
