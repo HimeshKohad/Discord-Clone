@@ -17,11 +17,11 @@ Here are screenshots of the Discord website clone:
 
 If you'd like to contribute to the project, please follow these steps:
 
-Fork the repository to your own GitHub account.
-Create a new branch and make your changes.
-Push your changes to your forked repository.
-Submit a pull request to the original repository.
-Please follow the project's code of conduct and coding guidelines when contributing. Contributions of all kinds are welcome and appreciated!
+- Fork the repository to your own GitHub account.
+- Create a new branch and make your changes.
+- Push your changes to your forked repository.
+- Submit a pull request to the original repository.
+- Please follow the project's code of conduct and coding guidelines when contributing. Contributions of all kinds are welcome and appreciated!
 
 ## 📄 License
 
